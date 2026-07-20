@@ -1,0 +1,3 @@
+version: 0.2.0
+mandatory: false
+download: https://github.com/.../releases/download/v0.2.0/….exe
