@@ -1,2 +1,2 @@
-version: 0.2.5
-mandatory: true
+version: 0.2.6
+mandatory: false
