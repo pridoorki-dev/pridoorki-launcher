@@ -1,2 +1,2 @@
-version: 99.99.99
-mandatory: false
+version: 0.3.0-apex
+mandatory: true
