@@ -1,3 +1,4 @@
+0.4.2-val mandatory
 0.4.1-val mandatory
 0.4.0-val mandatory
 0.3.0-apex mandatory
