@@ -1,2 +1,2 @@
-version: 0.4.2-val
-mandatory: true
+version: 0.4.3-val
+mandatory: false
